@@ -1,5 +1,6 @@
-# projectposition
-This repo is to fetch applications for a project position in my group. 
+# Project Position
+
+This repo is to fetch applications for a project position in my group and to post updates about such opportunities in my group.
 
 Applications are invited for the temporary post of JRF / SRF / RA; Equivalent or lesses positions admissible as per DST / IIT Madras norms in a project from National Supercomputing Mission, IIT Madras.
 
