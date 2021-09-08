@@ -2,7 +2,7 @@
 
 This repo is to fetch applications for a project position in my group and to post updates about such opportunities in my group.
 
-Applications are invited for the temporary post of JRF / SRF / RA; Equivalent or lesses positions admissible as per DST / IIT Madras norms in a project from National Supercomputing Mission, IIT Madras.
+Applications are invited for the temporary post of JRF / SRF / RA equivalent or lesser positions admissible as per DST / IIT Madras norms in a project from National Supercomputing Mission, IIT Madras.
 
 We are looking for a skilled computer programmer who has experience in languages such as C, C++ and Python. Use of tools such as git (for version control) is a must. Exposure to any of the programming environments / tools / libraries such as OpenFOAM, Paraview, HDF5, MPI, PBS, OpenCL, CUDA, etc., would be desirable. Work involves writing new programs and modifying existing programs to execute in a parallel environment. 
 
