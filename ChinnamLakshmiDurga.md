@@ -25,6 +25,7 @@
 
 2.Data Science Virtual Intern at LET'S GROW MORE
   * https://github.com/ChinnamLakshmiDurga/LGMVIP-DataScience
+  * https://github.com/ChinnamLakshmiDurga/LGMVIP-DataScience/blob/main/Exploratory_Data_Analysis_on_Dataset_Terrorism_.ipynb
   
 3.Data Analytics Virtual Intern at Quantium.
   * Link:https://github.com/ChinnamLakshmiDurga/Data-preparation-and-customer-analytics
